@@ -1,0 +1,13 @@
+file_format: "1"
+id: mapadubu
+name: MAPADUBU
+type: shield
+url: https://github.com/Canorus/zmk-mapadubu/
+requires: [pro_micro]
+exposes: []
+features:
+  - keys
+  - studio
+siblings:
+  - mapadubu_left
+  - mapadubu_right
