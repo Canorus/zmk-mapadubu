@@ -1,0 +1,10 @@
+#
+# Copyright (c) 2024 The ZMK Contributors
+#
+# SPDX-License-Identifier: MIT
+#
+
+if [ "${ZMK_KEYBOARD_NAME}" = "mapadubu" ]; then
+  config ZMK_SHIELD_MAPADUBU_RIGHT
+    default y
+fi
