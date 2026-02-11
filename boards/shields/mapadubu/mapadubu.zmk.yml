@@ -3,7 +3,7 @@ id: mapadubu
 name: MAPADUBU
 type: shield
 url: https://github.com/Canorus/zmk-mapadubu
-requires: [pro_micro]
+requires: [xiao_ble]
 features:
   - keys
   - studio
