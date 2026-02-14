@@ -20,10 +20,10 @@
             key-positions = <0 1>;
         };
 
-        tab {
-            bindings = <&kp TAB>;
-            key-positions = <13 12>;
-        };
+        //tab {
+        //    bindings = <&kp TAB>;
+        //   key-positions = <13 12>;
+        //};
     };
 
     keymap {
